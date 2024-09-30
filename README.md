@@ -20,4 +20,4 @@ To run this project locally, follow these steps:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/epileptic-seizure-prediction.git
+   git clone https://github.com/jnvw/pre_seizure_prediction.git
